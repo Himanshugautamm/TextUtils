@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextUtils-React/static/css/main.abd64e84.css",
-    "main.js": "/TextUtils-React/static/js/main.270f219e.js",
-    "static/js/787.719ec76d.chunk.js": "/TextUtils-React/static/js/787.719ec76d.chunk.js",
-    "index.html": "/TextUtils-React/index.html",
-    "main.abd64e84.css.map": "/TextUtils-React/static/css/main.abd64e84.css.map",
-    "main.270f219e.js.map": "/TextUtils-React/static/js/main.270f219e.js.map",
-    "787.719ec76d.chunk.js.map": "/TextUtils-React/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/textUtils/static/css/main.abd64e84.css",
+    "main.js": "/textUtils/static/js/main.28d6ba0f.js",
+    "static/js/787.719ec76d.chunk.js": "/textUtils/static/js/787.719ec76d.chunk.js",
+    "index.html": "/textUtils/index.html",
+    "main.abd64e84.css.map": "/textUtils/static/css/main.abd64e84.css.map",
+    "main.28d6ba0f.js.map": "/textUtils/static/js/main.28d6ba0f.js.map",
+    "787.719ec76d.chunk.js.map": "/textUtils/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.270f219e.js"
+    "static/js/main.28d6ba0f.js"
   ]
 }
